@@ -24,9 +24,9 @@ echo Error : file not download with composer.phar
 goto ends
 
 :err3
-echo Error : file not create with composer.bat
+echo Error : file not created with composer.bat
 goto ends
 
 :ends
 pause
-::exit
+exit
