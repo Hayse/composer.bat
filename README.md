@@ -7,6 +7,7 @@
 
 ## 使用方法
 1、首先设置系统PATH变量，追加你的PHP目录，
+
 2、CMD到任何你想要的地方，执行相关composer命令即可，例：`composer install`
 
 ## 错误提示
