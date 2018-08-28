@@ -1,4 +1,4 @@
-# Composer 是 PHP 世界里用于管理项目依赖的工具。
+# Composer 是 PHP 用于管理项目依赖的工具。
 
 ## 献给不会安装 Compose 的 PHPer
 此文件 `composer.install.bat` ，请下载后保存到 WINDOWS 电脑的 PHP 目录内，
