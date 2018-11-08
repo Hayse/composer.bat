@@ -1,7 +1,11 @@
 # Composer 是 PHP 用于管理项目依赖的工具。
 
-## 献给不会安装 Compose 的 PHPer
-此文件 `composer.install.bat` ，请下载后保存到 WINDOWS 电脑的 PHP 目录内，
+献给在Windows+PHP下摸索的PHPer
+
+---
+
+## 安装
+下载此文件[composer.install.bat](https://github.com/Hayse/composer.bat/composer.install.bat) ，请下载后保存到 WINDOWS 电脑的 PHP 目录内，
 
 双击运行，保持网络通畅，马上就好
 
