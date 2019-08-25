@@ -23,9 +23,11 @@
 
 # 注释
 
-步骤1、 下载获取安装文件https://getcomposer.org/installer
-步骤2、 PHP执行安装文件，得到文件composer.phar
-步骤3、 生成 composer.bat 命令文件，内容为：@php "%~dp0composer.phar" %*
+- 步骤1、 下载获取安装文件https://getcomposer.org/installer
+
+- 步骤2、 PHP执行安装文件，得到文件composer.phar
+
+- 步骤3、 生成 composer.bat 命令文件，内容为：@php "%~dp0composer.phar" %*
 
 再加上系统PATH变量包含PHP目录，当执行composer命令时就可以自动执行了。
 
