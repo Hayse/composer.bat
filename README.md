@@ -17,6 +17,8 @@
 ## 错误提示
 如遇错误会有错误信息提供，也可以在这里反馈
 
+- 出错后办法一：复制composer.phar到你的项目下，命令格式为：php composer.phar -V 【注：-V 就是相应的指令啦】
+
 ## Good Luck
 
 
